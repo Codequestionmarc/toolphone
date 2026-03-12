@@ -1,0 +1,18 @@
+[
+  {
+    "id": "clock",
+    "name": "Clock",
+    "description": "Analog + digital clock",
+    "package_url": "https://codequestionmarc.github.io/toolphone/clock.zip",
+    "sha256": "",
+    "icon_url": "https://codequestionmarc.github.io/toolphone/icons/clock.png"
+  },
+  {
+    "id": "weather",
+    "name": "Weather",
+    "description": "Weather app",
+    "package_url": "https://codequestionmarc.github.io/toolphone/weather.zip",
+    "sha256": "",
+    "icon_url": "https://codequestionmarc.github.io/toolphone/icons/weather.png"
+  }
+]
